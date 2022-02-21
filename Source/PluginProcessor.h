@@ -55,7 +55,7 @@ public:
 
 private:
 
-    itn a = "";
+    std::string a = "";
     float b  = 2
     char b
     int a()
