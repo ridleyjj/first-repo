@@ -60,7 +60,7 @@ private:
     char b
     int a()
     chr u
-    duble 2
+    double myDouble = 2.0;
 
     //==============================================================================
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (NewProjectAudioProcessor)
