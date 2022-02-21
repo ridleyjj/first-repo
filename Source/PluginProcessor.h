@@ -54,6 +54,14 @@ public:
     void setStateInformation (const void* data, int sizeInBytes) override;
 
 private:
+
+    itn a = "";
+    float b  = 2
+    char b
+    int a()
+    chr u
+    duble 2
+
     //==============================================================================
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (NewProjectAudioProcessor)
 };
